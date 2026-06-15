@@ -1,0 +1,1 @@
+{"name":"portal-coaching","version":"1.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"react":"^18.2.0","react-dom":"^18.2.0","@supabase/supabase-js":"^2.38.0"},"devDependencies":{"@vitejs/plugin-react":"^4.0.0","vite":"^4.4.0","tailwindcss":"^3.3.0","postcss":"^8.4.31","autoprefixer":"^10.4.16"}}
